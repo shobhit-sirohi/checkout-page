@@ -1,0 +1,15 @@
+#productOne::-webkit-outer-spin-button,
+#productOne::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+#productTwo::-webkit-outer-spin-button,
+#productTwo::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
